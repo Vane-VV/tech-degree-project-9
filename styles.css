@@ -1,3 +1,5 @@
-@media (min-width: @screen-sm-min) { 
-    
- }
+.profile-img {
+    width: 35%;
+    min-width: 216px;
+    border-radius: 50%;
+}
